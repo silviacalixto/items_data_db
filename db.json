@@ -1,0 +1,43 @@
+{
+	"items":[
+	{
+		"id": 1,
+		"distributionCenters": ["cd1", "cd2", "cd3"]
+	},
+	{
+		"id": 2,
+		"distributionCenters": ["cd1", "cd2", "cd3", "cd4", "cd5"]
+	},
+	{
+		"id": 3,
+		"distributionCenters": ["cd1", "cd2"]
+	},
+	{
+		"id": 4,
+		"distributionCenters": ["cd1", "cd3", "cd4", "cd5", "cd6", "cd8"]
+	},
+	{
+		"id": 5,
+		"distributionCenters": ["cd2", "cd3", "cd5", "cd7"]
+	},
+	{
+		"id": 6,
+		"distributionCenters": ["cd1", "cd2", "cd3", "cd4", "cd6", "cd8"]
+	},
+	{
+		"id": 7,
+		"distributionCenters": ["cd4", "cd5", "cd6"]
+	},
+	{
+		"id": 8,
+		"distributionCenters": ["cd1", "cd2", "cd3", "cd4", "cd5", "cd7"]
+	},
+	{
+		"id": 9,
+		"distributionCenters": ["cd1", "cd4", "cd5", "cd6", "cd7", "cd8"]
+	},
+	{
+		"id": 10,
+		"distributionCenters": ["cd3", "cd4", "cd5", "cd7", "cd8"]
+	}]
+}
